@@ -1,0 +1,10 @@
+.DS_Store
+*.log
+*.log.*
+*.sublime-project
+*.sublime-workspace
+.vscode
+node_modules
+/dist
+/coverage
+config.js
